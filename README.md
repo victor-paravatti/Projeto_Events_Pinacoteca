@@ -4,14 +4,14 @@
 
 # Indice
 
+- [Como Usar](#-Como-Usar)
 - [Sobre](#-sobre)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Como baixar o projeto](#-como-baixar-o-projeto)
-- [Como Usar](#-como-Usar)
+- [Como baixar o projeto](#-Como-baixar-o-projeto)
 
 # Como Usar
 
-- Abra o arquivo execute-o
+- Abra o arquivo execuxute-o
 - Apos isso ira abrir o menu de login com a opção de login de funcionario ou login de cliente
 - Em sequida cada menu tera opçes de utilização separado para uma que seria o funcionario para cadastara os item e os ambientes e o cliente tera um menu com as solicitação.
 - o programa te a seleção de pagamento e para o funcionario tem o gerador de relatórios
@@ -29,7 +29,6 @@ O projeto foi desenvolvido utilizando a seguinte tecnologia
 
 - [Python](https://python.org)
 
-
 ---
 
 ## 🗂 Como baixar o projeto
@@ -38,11 +37,9 @@ O projeto foi desenvolvido utilizando a seguinte tecnologia
 
     # Clonar o repositório
     $ git clone https://github.com/victor-paravatti/Projeto_Events_Pinacoteca.git
-
-
-
 ---
 ````
+
 Desenvolvido 💜 por Victor Guilerme Paravatti * Pront :BP300788X
                      Demetrios Pantaleão * Pront :BP3007685
                      David Busch * Pront :BP3007669
