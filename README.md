@@ -11,7 +11,7 @@
 
 # Como Usar
 
-- Abra o arquivo execuxute-o
+- Abra o arquivo execute-o
 - Apos isso ira abrir o menu de login com a opção de login de funcionario ou login de cliente
 - Em sequida cada menu tera opçes de utilização separado para uma que seria o funcionario para cadastara os item e os ambientes e o cliente tera um menu com as solicitação.
 - o programa te a seleção de pagamento e para o funcionario tem o gerador de relatórios
